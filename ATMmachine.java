@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 class ATM{
 
-    private int PIN = 1111; //hey please update PIN don't make it public
+    private int PIN = 1111; //hey please update PIN don't make it public - lets see
     private float Balance ;
 
     ATM(){  
