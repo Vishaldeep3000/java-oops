@@ -45,7 +45,7 @@ class ATM{
                     break;
                 case 4:
                     System.out.println("Exiting ATM , thankyou !");
-                    return;
+                    break;
                 default:
                     System.out.println("Enter a valid PIN !!");
             }
