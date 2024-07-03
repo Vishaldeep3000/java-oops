@@ -1,0 +1,2 @@
+This project contains two code files which inplements and helps us understand the OOPS concept in java with the practical example
+The written is easy to understand and implement.
