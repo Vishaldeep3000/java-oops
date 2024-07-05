@@ -1,3 +1,4 @@
+package ATM;
 import java.util.Scanner;
 
 class ATM{
